@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+}
+.sergey {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: xxx-large;
+    font-style: italic;
+    background-color: darkorange;
+    color: black;
+    text-decoration: underline;
+    text-align: left;
+    position: fixed;
+    border: black 5px ridge;
+    padding: 25px;
+    margin-top: 50px;
+    margin-left: 20%;
+}
