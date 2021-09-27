@@ -1,6 +1,8 @@
 body {
-    text-align: center;
-    background-color: skyblue;
+    background-image: url(bg.jpg);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .sergey {
     font-family: Verdana, Geneva, Arial, sans-serif;
@@ -15,4 +17,11 @@ body {
     padding: 25px;
     margin-top: 50px;
     margin-left: 20%;
+}
+
+.kirill {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 300px;
 }
